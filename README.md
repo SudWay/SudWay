@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Sudarshan Waydande</h1>
 
-<img align='right' src='https://github.com/SudWay/SudWay/blob/main/gifgiphy.gif' width='150"'>
+<img align='right' src='https://github.com/SudWay/SudWay/blob/main/gifgiphy.gif' width='150"'></img>
 
-&ensp; &ensp;  Passionate Data Engineer dedicated to designing and implementing scalable and efficient data pipelines. Proficient in transforming raw data into valuable insights, optimizing ETL processes, and ensuring data quality. Seeking collaborative projects that challenge my skills in data modeling, warehousing, and streaming analytics. Committed to leveraging emerging technologies to drive innovation in data engineering.
+&ensp; &ensp;Passionate Data Engineer dedicated to designing and implementing scalable and efficient data pipelines. Proficient in transforming raw data into valuable insights, optimizing ETL processes, and ensuring data quality. Seeking collaborative projects that challenge my skills in data modeling, warehousing, and streaming analytics. Committed to leveraging emerging technologies to drive innovation in data engineering.
 
 #
 
