@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sudarshan Waydande</h1>
 
-<img align='right' src='https://github.com/SudWay/SudWay/blob/main/gifgiphy.gif' width='150"'></img>
+<img align='right' src='[https://github.com/SudWay/SudWay/blob/main/gifgiphy.gif](https://github.com/SudWay/SudWay/blob/main/giphy.gif)' width='150"'></img>
 
 &ensp; &ensp;Passionate Data Engineer dedicated to designing and implementing scalable and efficient data pipelines. Proficient in transforming raw data into valuable insights, optimizing ETL processes, and ensuring data quality. Seeking collaborative projects that challenge my skills in data modeling, warehousing, and streaming analytics. Committed to leveraging emerging technologies to drive innovation in data engineering.
 
@@ -24,7 +24,7 @@ I am currently looking for Full-time opportunities. Please reach out to me if yo
 
 |䷛| Repository| Description|
 |---|---|---|
-|1️⃣|[Business Meeting Summarization](https:// https://github.com/bhardwaj-di/Busines_meeting_summarization)| A Scalable Data Pipeline for Summarizing video and audio, performing Speaker Diarization, with code executing on serverless google cloud functions and with all the components deployed oncompenents Google Cloud. Sending an e-mail to the customer at the end with a pdf containing the summary of all the speakers.|
+|1️⃣|[Business Meeting Summarization](https://github.com/bhardwaj-di/Busines_meeting_summarization)| A Scalable Data Pipeline for Summarizing video and audio, performing Speaker Diarization, with code executing on serverless google cloud functions and with all the components deployed oncompenents Google Cloud. Sending an e-mail to the customer at the end with a pdf containing the summary of all the speakers.|
 
  ###  Languages and Tools:
 
