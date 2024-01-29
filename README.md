@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sudarshan Waydande</h1>
 
-<img src='https://github.com/SudWay/SudWay/blob/main/gifgiphy.gif' width='150"'>
+<img src='https://github.com/SudWay/SudWay/blob/main/gifgiphy.gif' width='150'>
 
 &ensp; &ensp;Passionate Data Engineer dedicated to designing and implementing scalable and efficient data pipelines. Proficient in transforming raw data into valuable insights, optimizing ETL processes, and ensuring data quality. Seeking collaborative projects that challenge my skills in data modeling, warehousing, and streaming analytics. Committed to leveraging emerging technologies to drive innovation in data engineering.
 
@@ -44,7 +44,7 @@ I am currently looking for Full-time opportunities. Please reach out to me if yo
 * **ETL Tools & Warehousing:** Alteryx, Talend Studio, Apache Airflow, Snowflake, BigQuery, Hadoop MapReduce
 * **Business Intelligence:** Tableau, Power BI, SSRS, Looker, Microsoft Excel
 * **ML Techniques & Libraries:** Regression, Decision Trees, Random Forest, Scikit Learn, NumPy, Pandas
-* **Cloud Technologies::** GCP Compute Engine, AWS S3, Docker, Azure, AWS lambda, Github/Git
+* **Cloud Technologies:** GCP Compute Engine, AWS S3, Docker, Azure, AWS lambda, Github/Git
 
 <!--
 **SudWay/SudWay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
